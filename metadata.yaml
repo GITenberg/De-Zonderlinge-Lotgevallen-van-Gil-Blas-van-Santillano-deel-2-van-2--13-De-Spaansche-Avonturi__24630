@@ -1,0 +1,42 @@
+_repo: De-Zonderlinge-Lotgevallen-van-Gil-Blas-van-Santillano-deel-2-van-2--13-De-Spaansche-Avonturi__24630
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gigoux, Jean François
+    alias: Gigoux, Jean Francois
+    birthdate: 1806
+    deathdate: 1894
+    gutenberg_agent_id: '9903'
+    url: http://www.gutenberg.org/2009/agents/9903
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Sage, Alain René
+    aliases:
+    - Le Sage, Alain Rene
+    - Lesage, Alain-René
+    - Sage, Alain-René le
+    - Sage, Alain René Le
+    birthdate: 1668
+    deathdate: 1747
+    gutenberg_agent_id: '6207'
+    url: http://www.gutenberg.org/2009/agents/6207
+    wikipedia: http://en.wikipedia.org/wiki/Alain-René_Lesage
+description: ''
+gutenberg_issued: '2008-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24630'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Blas, Gil (Fictitious character) -- Fiction'
+title: "De Zonderlinge Lotgevallen van Gil Blas van Santillano, deel 2 van 2\r\nDe\
+  \ Spaansche Avonturier"
+url: http://www.gutenberg.org/ebooks/24630
