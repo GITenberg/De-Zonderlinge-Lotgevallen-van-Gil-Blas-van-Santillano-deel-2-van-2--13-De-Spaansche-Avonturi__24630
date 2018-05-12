@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6207
     wikipedia: http://en.wikipedia.org/wiki/Alain-René_Lesage
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24630#De-Zonderlinge-Lotgevallen-van-Gil-Blas-van-Santillano-deel-2-van-2--13-De-Spaansche-Avonturi_
 gutenberg_issued: '2008-02-16'
 gutenberg_type: Text
 identifiers:
